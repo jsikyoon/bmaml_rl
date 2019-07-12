@@ -32,7 +32,7 @@ flags.DEFINE_string('mode', 'local', 'if you use aws, then you can choose other 
 flags.DEFINE_string('method', 'svpg', '{svpg|vpg}')
 flags.DEFINE_float('svpg_alpha', 1.0, 'svpg alpha')
 # LOAD PREVIOUS WORK
-flags.DEFINE_bool('load_policy', False, 'load previous works or not')
+flags.DEFINE_bool('load_policy', False, 'load previous works or not') # load_policy option is not working well
 
 num_particles = FLAGS.num_particles
 num_parallel = FLAGS.num_parallel
