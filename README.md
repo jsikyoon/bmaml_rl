@@ -1,6 +1,6 @@
 # Baysian Model-Agnostic Meta-Learning
 
-This repository contains implementations of the paper, [Bayesian Model-Agnostic Meta-Learning (Jaesik Yoon and Taesup Kim et al., NuerIPS 2018)](https://arxiv.org/abs/1806.03836). It includes code for running the reinforcement learning tasks described in the paper.
+This repository contains implementations of the paper, [Bayesian Model-Agnostic Meta-Learning (Jaesik Yoon and Taesup Kim et al., NuerIPS 2018)](https://arxiv.org/abs/1806.03836). It includes code for running the reinforcement learning task, 2D point navigation task described in the paper.
 
 To comparison with MAML and Ensemble MAML, we implemented EMAML options.
 You can run that with the options described as following running scripts.
