@@ -13,12 +13,12 @@ For the regression experiments, plese see [this repository](https://github.com/j
 
 ## Quick run
 This code is based on [rllab](https://github.com/rll/rllab).
-You can run simple reinforcement learning task, 2D point navigation task by installing enclosed requirements.
+You can run this code by installing enclosed requirements.
 ```
 pip install -r requirements
 ```
 
-Before starting experiments, you can check your environment can run this code or not by running test_bmaml_examples.py.
+Before starting experiments, you can check your environment by running test_bmaml_examples.py.
 ```
 python test_bmaml_examples.py
 ```
