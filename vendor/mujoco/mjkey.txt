@@ -1,0 +1,21 @@
+MuJoCo Pro Team license activation key, number 6277, type 6.
+
+Issued to Kakao Brain, Korea.
+
+Expires November 19, 2018.
+
+Do not share this file with anyone other than the users covered
+by your license agreement with Roboti LLC. This file activates
+MuJoCo Pro on any computer running any supported OS.
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+d732f24b683ab6531d7b4515ea30a93fe92f88ed52de532b1e777c182705f191
+97a5b8d19c051a6b9f3a626575ad3c515f6f563ef51dbc7976bb1d1fefeecc40
+0c16f3ba003ca1ab819f61b40169de161667c6315d75a13fb85cea360d697515
+bcaeb6d9f15566b89b61dce2c8b37906e61eac85ba0ae648b712dd77e5508552
+cb7c2b40a859af8454281296e7d994a2a5e0cac2cbe124b0a021f072a81cb3d9
+ec89045e3996d0d0a1c62d33596a65f000b8f69cac7d772d592c002db3914364
+3f865bc2c7e288b847fd979db2801f7c8591d423ff0df3782ee40b8f9ae9c57c
+bf686cb0262d5ee2d0f7e82e33e36b6c27eff2f1baf8accc3fa432a7533c5402

@@ -1,0 +1,237 @@
+{
+  "args_data": "gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYBgAAAF9fYXJnc3EDKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBCmBcQV9cQYoWAQAAABhcmdzcQcpWAYAAABrd2FyZ3NxCH1xCShYDQAAAGJhc2VsaW5lX2xpc3RxCl1xCyhoBCmBcQx9cQ0oaAcpaAh9cQ5YCAAAAGVudl9zcGVjcQ9jcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJBdHRyCnEQKYFxEX1xEihYBAAAAF9vYmpxE2gEKYFxFH1xFShoByloCH1xFlgLAAAAd3JhcHBlZF9lbnZxF2gEKYFxGH1xGShoByloCH1xGlgDAAAAZW52cRtoBCmBcRx9cR0oaAcpaAh9cR5YCwAAAHByb3h5X2NsYXNzcR9jYm1hbWxfZXhhbXBsZXMucG9pbnQucG9pbnRfZW52X3JhbmRnb2FsClBvaW50RW52UmFuZEdvYWwKcSB1YnNoH2NybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52Ck5vcm1hbGl6ZWRFbnYKcSF1YnNoH2NzYW5kYm94LnJvY2t5LnRmLmVudnMuYmFzZQpUZkVudgpxInViWAoAAABfYXR0cl9uYW1lcSNYBAAAAHNwZWNxJHVic2gfY3JsbGFiLmJhc2VsaW5lcy5saW5lYXJfZmVhdHVyZV9iYXNlbGluZQpMaW5lYXJGZWF0dXJlQmFzZWxpbmUKcSV1YmgEKYFxJn1xJyhoByloCH1xKGgPaBApgXEpfXEqKGgTaBRoI2gkdWJzaB9oJXViaAQpgXErfXEsKGgHKWgIfXEtaA9oECmBcS59cS8oaBNoFGgjaCR1YnNoH2gldWJoBCmBcTB9cTEoaAcpaAh9cTJoD2gQKYFxM31xNChoE2gUaCNoJHVic2gfaCV1YmgEKYFxNX1xNihoByloCH1xN2gPaBApgXE4fXE5KGgTaBRoI2gkdWJzaB9oJXViZVgFAAAAbl9pdHJxOktkWA8AAABtZXRhX2JhdGNoX3NpemVxO0sUWAsAAAByYW5kb21fc2VlZHE8SwNYCgAAAGJhdGNoX3NpemVxPUsKWAoAAABzdnBnX2FscGhhcT5HP/AAAAAAAABYCwAAAGxvYWRfcG9saWN5cT9OWAQAAABzdnBncUCIWA8AAABtYXhfcGF0aF9sZW5ndGhxQUtkWAQAAABwbG90cUKJaBtoFFgJAAAAc3RlcF9zaXplcUNHP4R64UeuFHtYCwAAAHBvbGljeV9saXN0cURdcUUoaAQpgXFGfXFHKGgHKWgIfXFIKFgTAAAAaGlkZGVuX25vbmxpbmVhcml0eXFJY3RlbnNvcmZsb3cucHl0aG9uLm9wcy5nZW5fbm5fb3BzCnJlbHUKcUpYDAAAAHBhcnRpY2xlX2lkeHFLSwBYDgAAAGdyYWRfc3RlcF9zaXplcUxHP7mZmZmZmZpYDAAAAGhpZGRlbl9zaXplc3FNS2RLZIZxTlgEAAAAbmFtZXFPWAYAAABwb2xpY3lxUGgPaBApgXFRfXFSKGgTaBRoI2gkdWJ1aB9jc2FuZGJveC5yb2NreS50Zi5wb2xpY2llcy5ibWFtbF9taW5pbWFsX2dhdXNzX21scF9wb2xpY3kKQk1BTUxHYXVzc2lhbk1MUFBvbGljeQpxU3ViaAQpgXFUfXFVKGgHKWgIfXFWKGhJaEpoS0sBaExHP7mZmZmZmZpoTWhOaE9oUGgPaBApgXFXfXFYKGgTaBRoI2gkdWJ1aB9oU3ViaAQpgXFZfXFaKGgHKWgIfXFbKGhJaEpoS0sCaExHP7mZmZmZmZpoTWhOaE9oUGgPaBApgXFcfXFdKGgTaBRoI2gkdWJ1aB9oU3ViaAQpgXFefXFfKGgHKWgIfXFgKGhJaEpoS0sDaExHP7mZmZmZmZpoTWhOaE9oUGgPaBApgXFhfXFiKGgTaBRoI2gkdWJ1aB9oU3ViaAQpgXFjfXFkKGgHKWgIfXFlKGhJaEpoS0sEaExHP7mZmZmZmZpoTWhOaE9oUGgPaBApgXFmfXFnKGgTaBRoI2gkdWJ1aB9oU3ViZVgQAAAAbnVtX2dyYWRfdXBkYXRlc3FoSwF1aB9jc2FuZGJveC5yb2NreS50Zi5hbGdvcy5ibWFtbF90cnBvCkJNQU1MVFJQTwpxaXViWAUAAAB0cmFpbnFqKX1xa3RxbFgIAAAAX19rd2FyZ3NxbX1xbnViLg==",
+  "exp_name": "bmaml_M5_SVPG_alpha1.0_fbs10_mbs20_flr_0.1_mlr_0.01_randomseed3",
+  "json_args": {
+    "algo": {
+      "_name": "sandbox.rocky.tf.algos.bmaml_trpo.BMAMLTRPO",
+      "baseline_list": [
+        {
+          "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_name": "rllab.baselines.linear_feature_baseline.LinearFeatureBaseline",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "batch_size": 10,
+      "load_policy": null,
+      "max_path_length": 100,
+      "meta_batch_size": 20,
+      "n_itr": 100,
+      "num_grad_updates": 1,
+      "plot": false,
+      "policy_list": [
+        {
+          "_name": "sandbox.rocky.tf.policies.bmaml_minimal_gauss_mlp_policy.BMAMLGaussianMLPPolicy",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          },
+          "grad_step_size": 0.1,
+          "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+          "hidden_sizes": [
+            100,
+            100
+          ],
+          "name": "policy",
+          "particle_idx": 0
+        },
+        {
+          "_name": "sandbox.rocky.tf.policies.bmaml_minimal_gauss_mlp_policy.BMAMLGaussianMLPPolicy",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          },
+          "grad_step_size": 0.1,
+          "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+          "hidden_sizes": [
+            100,
+            100
+          ],
+          "name": "policy",
+          "particle_idx": 1
+        },
+        {
+          "_name": "sandbox.rocky.tf.policies.bmaml_minimal_gauss_mlp_policy.BMAMLGaussianMLPPolicy",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          },
+          "grad_step_size": 0.1,
+          "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+          "hidden_sizes": [
+            100,
+            100
+          ],
+          "name": "policy",
+          "particle_idx": 2
+        },
+        {
+          "_name": "sandbox.rocky.tf.policies.bmaml_minimal_gauss_mlp_policy.BMAMLGaussianMLPPolicy",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          },
+          "grad_step_size": 0.1,
+          "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+          "hidden_sizes": [
+            100,
+            100
+          ],
+          "name": "policy",
+          "particle_idx": 3
+        },
+        {
+          "_name": "sandbox.rocky.tf.policies.bmaml_minimal_gauss_mlp_policy.BMAMLGaussianMLPPolicy",
+          "env_spec": {
+            "attr": "spec",
+            "obj": {
+              "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+              "wrapped_env": {
+                "_name": "rllab.envs.normalized_env.NormalizedEnv",
+                "env": {
+                  "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+                }
+              }
+            }
+          },
+          "grad_step_size": 0.1,
+          "hidden_nonlinearity": "tensorflow.python.ops.gen_nn_ops.relu",
+          "hidden_sizes": [
+            100,
+            100
+          ],
+          "name": "policy",
+          "particle_idx": 4
+        }
+      ],
+      "random_seed": 3,
+      "step_size": 0.01,
+      "svpg": true,
+      "svpg_alpha": 1.0
+    },
+    "env": {
+      "_name": "sandbox.rocky.tf.envs.base.TfEnv",
+      "wrapped_env": {
+        "_name": "rllab.envs.normalized_env.NormalizedEnv",
+        "env": {
+          "_name": "bmaml_examples.point.point_env_randgoal.PointEnvRandGoal"
+        }
+      }
+    }
+  },
+  "log_dir": "/data/private/dev_js/bmaml_rl/data/local/bmaml-trpo-point100/bmaml_M5_SVPG_alpha1.0_fbs10_mbs20_flr_0.1_mlr_0.01_randomseed3",
+  "log_tabular_only": false,
+  "n_parallel": 10,
+  "params_log_file": "params.json",
+  "plot": false,
+  "resume_from": null,
+  "seed": 1,
+  "snapshot_gap": 1,
+  "snapshot_mode": "last",
+  "tabular_log_file": "progress.csv",
+  "text_log_file": "debug.log",
+  "use_cloudpickle": false,
+  "variant_data": null,
+  "variant_log_file": "variant.json"
+}

@@ -1,0 +1,8 @@
+joblib==0.13.2
+path.py==12.0.1
+theano==0.7
+matplotlib==3.0.1
+scipy==1.1.0
+pyprind==2.11.2
+lasagne==0.1
+cached_property==1.5.1
