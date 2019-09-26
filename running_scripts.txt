@@ -1,0 +1,80 @@
+#############################
+# 2D Navigation task
+#############################
+
+# SVPG-TRPO with 10 particles 
+python bmaml_examples/point/bmaml_point.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=100 --meta_method=trpo --method=svpg --svpg_alpha=1.0
+
+# SVPG-Chaser with 10 particles
+python bmaml_examples/point/bmaml_point.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=100 --meta_method=chaser --method=svpg --svpg_alpha=0.1
+
+# VPG-TRPO with 10 particles
+python bmaml_examples/point/bmaml_point.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=100 --meta_method=trpo --method=vpg --svpg_alpha=1.0
+
+# VPG-Reptile with 10 particles
+python bmaml_examples/point/bmaml_point.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=100 --meta_method=reptile --method=vpg --svpg_alpha=1.0
+
+#############################
+# Ant Goal Direction Task
+#############################
+
+# SVPG-TRPO with 10 particles 
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.1 --fast_batch_size=40 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --taskvar=0 --method=svpg --svpg_alpha=0.1
+
+# SVPG-Chaser with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.1 --fast_batch_size=40 --meta_batch_size=20 --meta_iter=200 --meta_method=chaser --taskvar=0 --method=svpg --svpg_alpha=0.1
+
+# VPG-TRPO with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.1 --fast_batch_size=40 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --taskvar=0 --method=vpg --svpg_alpha=0.1
+
+# VPG-Reptile with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.1 --fast_batch_size=40 --meta_batch_size=20 --meta_iter=200 --meta_method=reptile --taskvar=0 --method=vpg --svpg_alpha=0.1
+
+#############################
+# Ant Goal Velocity Task
+#############################
+
+# SVPG-TRPO with 10 particles 
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --taskvar=1 --method=svpg --svpg_alpha=1.0
+
+# SVPG-Chaser with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=chaser --taskvar=1 --method=svpg --svpg_alpha=0.1
+
+# VPG-TRPO with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --taskvar=1 --method=vpg --svpg_alpha=1.0
+
+# VPG-Reptile with 10 particles
+python bmaml_examples/locomotion/bmaml_ant.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=reptile --taskvar=1 --method=vpg --svpg_alpha=1.0
+
+
+#############################
+# Cheetah Goal Direction Task
+#############################
+
+# SVPG-TRPO with 10 particles 
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --direc=True --method=svpg --svpg_alpha=1.0
+
+# SVPG-Chaser with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=chaser --direc=True --method=svpg --svpg_alpha=1.0
+
+# VPG-TRPO with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --direc=True --method=vpg --svpg_alpha=1.0
+
+# VPG-Reptile with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=reptile --direc=True --method=vpg --svpg_alpha=1.0
+
+#############################
+# Cheetah Goal Velocity Task
+#############################
+
+# SVPG-TRPO with 10 particles 
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --direc=False --method=svpg --svpg_alpha=1.0
+
+# SVPG-Chaser with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=chaser --direc=False --method=svpg --svpg_alpha=1.0
+
+# VPG-TRPO with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=trpo --direc=False --method=vpg --svpg_alpha=1.0
+
+# VPG-Reptile with 10 particles
+python bmaml_examples/locomotion/bmaml_cheetah.py --num_particles=10 --num_parallel=10 --fast_lr=0.1 --meta_step_size=0.01 --fast_batch_size=10 --meta_batch_size=20 --meta_iter=200 --meta_method=reptile --direc=False --method=vpg --svpg_alpha=1.0
